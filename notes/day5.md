@@ -1,0 +1,3 @@
+Class Imbalance: A situation in classification problems where the number of observations belonging to one class is significantly lower than those belonging to the other classes.Minority Class: The smaller, usually more important class (e.g., the positive cancer diagnoses).
+Class Weights: Modifying the Loss Function so that errors made on the minority class are penalized more heavily.
+Focal Loss: A dynamically scaled cross-entropy loss. The scaling factor decays to zero as confidence in the correct class increases. 
