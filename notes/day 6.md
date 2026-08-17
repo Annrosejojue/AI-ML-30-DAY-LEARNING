@@ -1,3 +1,5 @@
 True Positive Rate (TPR / Sensitivity / Recall):
+
 Curve (Receiver Operating Characteristic): A graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied.AUC (Area Under the Curve): The definite integral of the ROC curve. It represents the probability that the model will score a randomly chosen positive patient higher than a randomly chosen negative patient.
+
 Brier Score: A strictly proper scoring rule that measures the mean squared difference between predicted probabilities and actual outcomes.
