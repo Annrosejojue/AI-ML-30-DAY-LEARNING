@@ -1,7 +1,4 @@
 Black Box Model: AI architectures (like Deep Neural Networks or Random Forests) where the internal decision-making process is too complex for humans to understand.
-
 Glass Box (White Box) Model: AI architectures designed to be transparent and inherently understandable by humans right out of the box.
-
 GAM (Generalized Additive Model): A statistical model in which the linear predictor depends linearly on unknown smooth functions of some predictor variables. The mathematical formula is strictly additive
-
 EBM (Explainable Boosting Machine): A highly modern, tree-based implementation of a GAM. It achieves the high accuracy of a Random Forest, but retains the perfect interpretability of a GAM
