@@ -18,3 +18,4 @@ Loss Function (L): A mathematical metric (like Mean Squared Error or Cross-Entro
 Backpropagation: An algorithm that utilizes the chain rule of calculus to compute the gradient (slope) of the loss function with respect to every single weight and bias in the network.  
 Gradient Descent: The optimization algorithm that actually updates the weights by taking a small step in the opposite direction of the gradient to minimize the loss.  
 
+complete
